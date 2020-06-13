@@ -21,6 +21,7 @@ link to the prices.csv from data: https://www.kaggle.com/dgawlik/nyse?select=pri
 ![Рисунок2](https://user-images.githubusercontent.com/34554388/84565589-c8811080-ad72-11ea-8e1a-64fd124b9514.png)
 
 
-by Oleg Laptev
+# The research and analytics are made and submitted for the course project by RCSE master program student of German-Russian Advanced Technologies Institute
+# Oleg Laptev
 
 
