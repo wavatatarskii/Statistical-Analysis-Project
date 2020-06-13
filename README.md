@@ -12,6 +12,11 @@ link to the prices.csv from data: https://www.kaggle.com/dgawlik/nyse?select=pri
 ### NASDAQ Stock Exchange
 ![nasdaq1](https://user-images.githubusercontent.com/34554388/84565356-33c9e300-ad71-11ea-811a-0db04fe0ffc4.png)
 
+## Tools
+### Python, pandas Lib, NumPy Lib, SciPy Lib, scikit-learn Lib, IPhython, matplotlib
+![Рисунок1](https://user-images.githubusercontent.com/34554388/84565456-f9147a80-ad71-11ea-93b2-f935e1e263a7.png)
+
+
 
 by Oleg Laptev
 
