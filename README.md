@@ -16,6 +16,9 @@ link to the prices.csv from data: https://www.kaggle.com/dgawlik/nyse?select=pri
 ### Python, pandas Lib, NumPy Lib, SciPy Lib, scikit-learn Lib, IPhython, matplotlib
 ![Рисунок1](https://user-images.githubusercontent.com/34554388/84565456-f9147a80-ad71-11ea-93b2-f935e1e263a7.png)
 
+## IDEs and CI/CD used
+### Google Research Colaboratory on Python3 with Google Drive data storage and connected to GitHub.io CI/CD tool
+![Рисунок2](https://user-images.githubusercontent.com/34554388/84565589-c8811080-ad72-11ea-8e1a-64fd124b9514.png)
 
 
 by Oleg Laptev
